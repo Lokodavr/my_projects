@@ -14,7 +14,7 @@ for i in range(5, -1, -1):
 '''
 num = 75869
 x = 0
-while num:                                              #Arajadranq 3
+while num:                                              #ex_ 3
     num //= 10
     x = x + 1
 print("The number digits is: ")
